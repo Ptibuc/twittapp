@@ -27,11 +27,11 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: twittapp_development
+  database: twittapp_test
   pool: 5
   timeout: 5000
   username: nicolas
-  password:   
+  password:
 
 
 # Warning: The database defined as "test" will be erased and
